@@ -88,4 +88,8 @@ All essential project components are included and documented.
 
 This project demonstrates the application of deep learning techniques in image classification using CNNs.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/c064a8d8-e474-4425-b1fd-29a892708d4c)
+
 
