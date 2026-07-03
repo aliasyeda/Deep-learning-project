@@ -110,11 +110,9 @@ The repository includes:
 
 ---
 
-## 📄 License
 
-This project is licensed under the MIT License.
 
-OUTPUT:
+## OUTPUT:
 
 ![Image](https://github.com/user-attachments/assets/c064a8d8-e474-4425-b1fd-29a892708d4c)
 
