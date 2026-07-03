@@ -70,7 +70,7 @@ Place the downloaded file inside the project directory before running the notebo
 1. Clone this repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Deep-learning-project.git
+git clone https://github.com/aliasyeda/Deep-learning-project.git
 ```
 
 2. Install dependencies
