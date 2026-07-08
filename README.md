@@ -106,7 +106,7 @@ The repository includes:
 - CNN architecture design
 - Model training and evaluation
 - Deep learning workflows using TensorFlow
-- Computer vision fundamentals
+- Computer vision Fundamentals
 
 ---
 
